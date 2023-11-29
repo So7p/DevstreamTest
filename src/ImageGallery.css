@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+#paper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#download-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
